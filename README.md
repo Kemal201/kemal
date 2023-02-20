@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-word
 
 #### Stats:
 ![Mohammad Emran's GitHub stats](https://github-readme-stats-phpfour.vercel.app/api?username=Kemal201&show_icons=true&count_private=true) 
-![Mohammad Emran's Top Langs](https://github-readme-stats-phpfour.vercel.app/api/top-langs/?username=Kemal201&layout=compact)
+<!-- ![Mohammad Emran's Top Langs](https://github-readme-stats-phpfour.vercel.app/api/top-langs/?username=Kemal201&layout=compact) -->
 
 
 <div> 
